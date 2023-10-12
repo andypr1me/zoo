@@ -2,3 +2,5 @@ panda
 slon 
 lev 
 žirafa
+tiger 
+zirafa
